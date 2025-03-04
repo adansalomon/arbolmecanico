@@ -1,0 +1,15 @@
+main:
+  - title: "Inicio"
+    url: "/"
+  - title: "Documentación"
+    url: "/docs/"
+    children:
+      - title: "Introducción"
+        url: "/docs/intro/"
+      - title: "Avanzado"
+        url: "/docs/avanzado/"
+        children:
+          - title: "Tema 1"
+            url: "/docs/avanzado/tema1/"
+          - title: "Tema 2"
+            url: "/docs/avanzado/tema2/"
