@@ -2,3 +2,7 @@ title: El Árbol Mecánico
 description: Una de tantas formas de ver el mundo. Un lugar donde agrupo las notas que siempre he tenido dispersas.
 author: Adán Salomón
 remote_theme: just-the-docs/just-the-docs
+collections: 
+ post:
+  output: true
+
