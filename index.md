@@ -1,0 +1,8 @@
+---
+layout: home
+title: Inicio
+---
+
+# Bienvenido a Árbol Mecánico
+
+Una de tantas formas de ver el mundo. Un lugar donde agrupo las notas que siempre he tenido dispersas.
