@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+layout: home
+title: Inicio
 ---
 
+# Bienvenido a Árbol Mecánico
+
+Contenido de introducción aquí...
